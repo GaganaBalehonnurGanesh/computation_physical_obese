@@ -1,0 +1,16 @@
+.shiny-input-container:not(.shiny-input-container-inline) {
+    width: auto;
+    max-width: 100%;
+}
+
+.plot-row {
+  margin-top: 50px;
+}
+
+.reset-btn {
+  margin: 30px;
+}
+
+.slider-btn {
+  margin-top: 10px;
+}
